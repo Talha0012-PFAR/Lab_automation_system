@@ -46,13 +46,6 @@ This system includes:
 
 ---
 
-## 👨‍👩‍👦‍👦 Project Team
-
-- **👨‍🏫 Project Leader:** Muhammad Talha Sajjad
-- **👨‍💼 Team Members:**
-  - Faizan
-  - Imad
-  - Kamran Mohsin
 
 ---
 
